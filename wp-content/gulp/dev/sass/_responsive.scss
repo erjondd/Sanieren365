@@ -1,0 +1,437 @@
+@media only screen and (min-width: 1920px) {
+
+    .container {
+        min-width: 1400px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    body div#wpforms-292-field_84 {
+        display: none;
+    }
+
+    body form .wpforms-field-container #wpforms-292-field_83 {
+        display: none;
+    }
+
+    body .wpforms-field-container .last {
+        width: 100% !important;
+    }
+
+    .homepage-swipper {
+        display: none !important;
+    }
+
+    .home-pages-content .one-page {
+        flex-basis: 33%;
+        max-width: 33%;
+    }
+
+    .homepage-swipper {
+        display: none;
+    }
+
+    section.footer {
+        flex-direction: column;
+    }
+
+    .footer-info {
+        padding-bottom: 50px;
+        padding-left: 15px;
+    }
+
+    .footer-col-head {
+        padding-bottom: 20px !important;
+    }
+
+    .footer-col-1 {
+        padding-bottom: 30px !important;
+    }
+
+    .header-logo {
+        display: none !important;
+    }
+
+    .nav-items {
+        display: none !important;
+    }
+
+    body .mobmenur-container {
+        filter: invert(1);
+        top: 30px;
+        margin-right: 30px;
+        margin-top: 0px;
+
+    }
+
+    .mob-menu-header-holder {
+        display: flex !important;
+        justify-content: space-between;
+    }
+
+    body .mob-menu-logo-holder {
+        margin-top: 10px;
+        text-align: center;
+        margin-left: 30px;
+        margin-right: 0;
+
+    }
+}
+
+@media only screen and (max-width: 768px) {
+    body .max-width-checkbox  ul li{
+        min-width:100% !important;
+    }
+    body .My-postal-code input{
+        width:60% !important;
+    }
+    body .second-slider-mobile {
+        display: block !important;
+        &.hide-my-slider{
+            display:none !important;
+        }
+    }
+
+    body .first-slider {
+        display: none !important;
+    }
+
+    body #wpforms-980-field_1 li,
+    body #wpforms-980-field_3 li {
+        width: calc(50% - 20px);
+    }
+
+    body .section-main-content {
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    body section.section-main .section-main-subtitle {
+        text-align: center;
+    }
+
+    body section.section-main .section-main-title {
+        text-align: center;
+    }
+
+    .page-template-template-wintergarten-wpforms-php .swiper-slide-active,
+    .page-template-template-kuchen-wpform .swiper-slide-active,
+    .page-template-template-badezimmer-wpform .swiper-slide-active,
+    .papage-template-template-bodenleger-wpformm .swiper-slide-active,
+    .page-template-template-isolation-wpforms .swiper-slide-active,
+    .page-template-template-schreiner-wpform .swiper-slide-active,
+    .page-template-template-plattenleger-wpform .swiper-slide-active,
+    .page-template-template-maler-wpforms .swiper-slide-active,
+    .page-template-template-elektriker-wpforms .swiper-slide-active,
+    .page-template-template-dachdecker-wpforms .swiper-slide-active,
+    .page-template-template-gartner-wpforms .swiper-slide-active,
+    .page-template-template-architekt-wpforms .swiper-slide-active,
+    .page-template-template-fenster-wpform .swiper-slide-active,
+    .page-template-template-solar-wpform .swiper-slide-active {
+        filter: blur(0px) !important;
+    }
+
+    .page-template-template-wintergarten-wpforms-php .swiper-slide,
+    .page-template-template-kuchen-wpform .swiper-slide,
+    .page-template-template-badezimmer-wpform .swiper-slide,
+    .page-template-template-bodenleger-wpform .swiper-slide,
+    .page-template-template-isolation-wpforms .swiper-slide,
+    .page-template-template-schreiner-wpform .swiper-slide,
+    .page-template-template-plattenleger-wpform .swiper-slide,
+    .page-template-template-maler-wpforms .swiper-slide,
+    .page-template-template-gartner-wpforms .swiper-slide,
+    .page-template-template-elektriker-wpforms .swiper-slide,
+    .page-template-template-dachdecker-wpforms .swiper-slide,
+    .page-template-template-architekt-wpforms .swiper-slide,
+    .page-template-template-fenster-wpform .swiper-slide,
+    .page-template-template-solar-wpform .swiper-slide {
+        filter: blur(0px) !important;
+    }
+
+    body .offer-sect {
+        width: 100% !important;
+        margin-bottom: 100px !important;
+
+    }
+
+    body .first-slider .container {
+        flex-direction: column;
+    }
+
+    .confirm-desc {
+        margin: 0px !important;
+    }
+
+    body .feedback-team .swiper-slide {
+        width: 100% !important;
+    }
+
+    body section.hausheld .one-counter {
+        width: 100%;
+        margin-bottom: 50px;
+    }
+
+    body section.hausheld .hausheld-counter {
+        flex-direction: column;
+    }
+
+    body section.hausheld .hausheld-content {
+        padding: 0 0px 50px 0px;
+    }
+
+    body section.reklam .reklam-content {
+        width: 100%;
+        margin-left: 0 !important;
+    }
+
+    body section.reklam .reklam-picture {
+        width: 50%;
+        display: none;
+    }
+
+    body .one-blog-post {
+        width: 100%;
+    }
+
+    body div#wpforms-1082-field_56-container,
+    body div#wpforms-1089-field_56-container,
+    body div#wpforms-1094-field_56-container,
+    body div#wpforms-1096-field_56-container,
+    body div#wpforms-1098-field_56-container,
+    body div#wpforms-1099-field_56-container,
+    body div#wpforms-1100-field_56-container,
+    body div#wpforms-1101-field_56-container,
+    body div#wpforms-1102-field_56-container,
+    body div#wpforms-1103-field_56-container,
+    body div#wpforms-1104-field_56-container,
+    body div#wpforms-1105-field_56-container,
+    body div#wpforms-1127-field_56-container,
+    body div#wpforms-292-field_56-container {
+        width: 100% !important;
+    }
+
+    body form .wpforms-field-container .last {
+        width: 100% !important;
+    }
+
+    body .first-picture-div,
+    body .second-picture-div {
+        display: none !important;
+    }
+
+    body div#wpforms-292-field_56-container {
+        width: 100%;
+    }
+
+    body .My-postal-code:before {
+        display: none;
+    }
+
+    body .first-page-bottom {
+
+        display: none;
+    }
+
+    body div#wpforms-292-field_56-container {
+        margin-top: 20px;
+    }
+
+    BODY section.kuchen-section {}
+
+    div.wpforms-container-full .wpforms-form .wpforms-field:not(.wpforms-field-phone) {
+        overflow-y: hidden !important;
+    }
+
+    .subhead-text {
+        display: none;
+    }
+
+    body .subhead-section-kuchen,
+    body .subhead-section-architect,
+    body .subhead-section-badezimmer,
+    body .subhead-section-dachdacker,
+    body .subhead-section-elektriker,
+    body .subhead-section-fenster,
+    body .subhead-section-isolation,
+    body .subhead-section-plattenleger,
+    body .subhead-section-wintergarten,
+    body .subhead-section-schreiner,
+    body .subhead-section-maler,
+    body .subhead-section-heizung,
+    body .subhead-section-bodenleger,
+    body .subhead-section-gartner,
+    body .subhead-section-contact {
+        min-height: 80px;
+
+        &:before {
+            display: none !important;
+        }
+    }
+
+    .form-contact {
+        margin-top: 0px !important;
+    }
+
+    .home-pages-content .one-page {
+        flex-basis: 50%;
+        max-width: 50%;
+    }
+
+    body .kuchen-section div.wpforms-container-full .wpforms-form ul li {
+        width: calc(50% - 20px) !important;
+    }
+
+
+
+    body div#wpforms-1082-field_56-container,
+    body div#wpforms-1082-field_89-container,
+    body div#wpforms-1089-field_90-container,
+    body div#wpforms-1094-field_90-container,
+    body div#wpforms-1096-field_89-container,
+    body div#wpforms-1098-field_56-container,
+    body div#wpforms-1099-field_89-container,
+    body div#wpforms-1100-field_89-container,
+    body div#wpforms-1101-field_89-container,
+    body div#wpforms-1102-field_89-container,
+    body div#wpforms-1103-field_89-container,
+    body div#wpforms-1104-field_90-container,
+    body div#wpforms-1105-field_90-container,
+    body div#wpforms-1127-field_92-container,
+    body div#wpforms-1323-field_27-container,
+    body div#wpforms-292-field_56-container,
+    body div#wpforms-292-field_89-container {
+        width: 100% !important;
+    }
+
+    body .subhead-section-kuchen .subhead-text,
+    body .subhead-section-heizung .subhead-text {
+        font-size: 20px;
+        margin: 0px 30px;
+    }
+
+    body .section-main-title {
+        font-size: 30px;
+    }
+
+    body .section-main-subtitle {
+        font-size: 20px;
+    }
+
+    body .subhead-section-kuchen .subhead-title {
+        font-size: 35px;
+    }
+
+    body .subhead-text {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 460px) {
+    section.reklam .reklam-button {
+        justify-content: center;
+    }
+
+    section.bot-footer {
+        font-size: 13px !important;
+    }
+
+    body section.reklam .reklam-title,
+    body .home-content .third-text,
+    body .home-content .first-text,
+    body section.hausheld .hausheld-title {
+        font-size: 32px !important;
+    }
+
+    body .renovation-title {
+        font-size: 28px !important;
+    }
+
+    body section.hausheld .counter-desc,
+    body .right-two-bottom {
+        font-size: 25px;
+    }
+
+    body .text-right-one {
+        font-size: 70px;
+    }
+
+    section.reklam .reklam-content,
+    body section.hausheld,
+    body section.renovation,
+    body section.home-content {
+        padding: 50px 0px !important;
+    }
+
+    body .eighty-form {
+        width: 100% !important;
+    }
+
+    body .twenty-form {
+        width: 100% !important;
+    }
+
+
+    .wpforms-page .wpforms-image-choices-label {
+        min-height: 63px !important;
+        display: flex !important;
+        align-items: center;
+        justify-content: center;
+    }
+
+    body .wpforms-clear.wpforms-pagebreak-left {
+        padding-top: 20px !important;
+    }
+
+    div.wpforms-container-full .wpforms-form .wpforms-field {
+        padding-top: 10px !important;
+        padding-bottom: 10px !important;
+    }
+
+
+    .wpforms-field-label {
+        padding-top: 20px !important;
+        padding-bottom: 20px !important;
+        font-size: 1.5em !important;
+    }
+
+    body .wpforms-field-pagebreak {
+        margin-top: 00px !important;
+    }
+
+    section.kuchen-section {
+        margin-top: 00px !important;
+    }
+
+    .wpforms-page-indicator-page-progress-wrap,
+    .wpforms-page-indicator {
+        display: none !important;
+    }
+
+    div.wpforms-container-full .wpforms-form ul.wpforms-image-choices-modern .wpforms-image-choices-item label {
+        padding: 10px !important;
+    }
+
+    body .kuchen-section div.wpforms-container-full .wpforms-form .wpforms-page-11 ul li {
+        width: 100% !important;
+    }
+
+    body .kuchen-section div.wpforms-container-full .wpforms-form ul li .home-pages-content .one-page {
+        flex-basis: 100%;
+        max-width: 100%;
+    }
+
+    body .wpforms-field-container .last {
+        display: flex;
+        flex-direction: column;
+    }
+
+    body div.wpforms-container-full .wpforms-form .wpforms-one-half {
+        margin-left: 0px;
+    }
+
+    body div.wpforms-container-full .wpforms-form .wpforms-one-half {
+        width: 100%;
+    }
+}
